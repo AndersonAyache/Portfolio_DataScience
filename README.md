@@ -1,6 +1,6 @@
 # Portfolio Data Science
 
-![Screenshot](imagem.png)
+![Screenshot](image.png)
 
 
 # Anderson Ayache 
