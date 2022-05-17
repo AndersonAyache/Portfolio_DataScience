@@ -6,4 +6,4 @@
 # Anderson Ayache 
 Aqui estão todos meus projetos que fiz sobre Data Science, todos bem detalhados e com suas analises específica 
 
-Alura Voz - https://bityli.com/rCzVYq
+Alura Voz - https://shre.ink/yMA
