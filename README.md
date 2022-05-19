@@ -1,10 +1,10 @@
-# Portfolio Data Science
+# Portfólio Data Science
 
 ![Screenshot](image.png)
 
 
 # Anderson Ayache 
-Neste portfolio você encontarar todos os meu projeto sobre Data Science.
+Neste portfólio você encontarar todos os meu projeto sobre Data Science.
 
 ## Projetos Terminados
 Alura Voz - https://shre.ink/yMA
