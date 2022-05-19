@@ -4,9 +4,9 @@
 
 
 # Anderson Ayache 
-Neste protifolho você encontarar todos os meu projeto sobre Data Science.
+Neste protfolio você encontarar todos os meu projeto sobre Data Science.
 
-## Projetos em Andamento
+## Projetos Terminados
 
 
 ## Projetos em Andamento
