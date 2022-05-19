@@ -4,7 +4,7 @@
 
 
 # Anderson Ayache 
-Neste portfolio você encontarar todos os meu projeto sobre Data Science.
+Neste portfolio você encontrar todos os meu projeto sobre Data Science.
 
 ## Projetos Finalizados
 Alura Voz - https://shre.ink/yMA
