@@ -10,5 +10,5 @@ Neste portfolio você encontrar todos os meu projeto sobre Data Science.
 
 
 ## Projetos em Andamento
-Alura Voz - [https://shre.ink/yMA](https://github.com/devayache/AluraVoz/blob/main/AluraVoz.ipynb)
+Alura Voz - https://bityli.com/ozIwmDUS
 
