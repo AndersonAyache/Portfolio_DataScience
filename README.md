@@ -10,5 +10,5 @@ Neste portfolio você encontrar todos os meu projeto sobre Data Science.
 
 
 ## Projetos em Andamento
-Alura Voz - https://bityli.com/ozIwmDUS
+Alura Voz - https://abre.ai/aluravoz
 
