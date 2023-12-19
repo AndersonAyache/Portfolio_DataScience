@@ -17,7 +17,8 @@ Sinta-se à vontade para mergulhar neste mundo de dados, onde a análise se conv
 
 
 ## Projetos Finalizados
-
+### Projetos de BI
+Pet Shop - Gatito - https://sites.google.com/view/projetogatito/gatito
 
 ## Projetos em Andamento
 Alura Voz - https://tinyurl.com/AluraVoz
